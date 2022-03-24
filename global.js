@@ -5,5 +5,5 @@
 //module ..info about current module
 //process-info about env where the program is being executed
 
-
-console.log(process)
+// require('./3_mindgran')
+console.log(__dirname)
