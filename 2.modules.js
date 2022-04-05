@@ -15,3 +15,5 @@ sayHi('sus')
 sayHi(names.namesjhon)
 sayHi(names.peter)
 console.log(data.singlePerson)
+console.log(data.items)
+
